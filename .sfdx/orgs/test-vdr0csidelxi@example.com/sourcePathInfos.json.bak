@@ -2,14 +2,14 @@
     [
         "C:\\Users\\Navin\\myeslwc\\force-app",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1559214219260,
             "changeTime": 1559214219260,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Users\\Navin\\myeslwc\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1559214219261,
             "changeTime": 1559214219261,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,29 +32,27 @@
     [
         "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1559214219261,
-            "changeTime": 1559214219261,
-            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1559292470958,
+            "changeTime": 1559292470958,
+            "contentHash": "ac621397a890055cef604c221403a6a071d353a0"
         }
     ],
     [
         "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1559214219261,
-            "changeTime": 1559214219261,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "modifiedTime": 1559284088128,
+            "changeTime": 1559284088128,
+            "contentHash": "f63d541a9351f96e69318ffcacbc73c2b0daa6ab",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,14 +60,14 @@
     [
         "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1559214219261,
-            "changeTime": 1559214219261,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "modifiedTime": 1559283647223,
+            "changeTime": 1559283647223,
+            "contentHash": "c61fb279c745cd9abec3d98fa07ad5cb44ff8dcf",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -77,16 +75,990 @@
     [
         "C:\\Users\\Navin\\myeslwc",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Navin\\myeslwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559280411279,
+            "changeTime": 1559280411279,
+            "contentHash": "73e70abbe0b0333763b47fff4a6226f3ea0c700f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\permissionsets",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559236207644,
+            "changeTime": 1559236207644,
+            "contentHash": "48101f54be047d2941f357e713fca6ba980b6a20",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\permissionsets\\EasySpacesObjects.permissionset-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\permissionsets\\EasySpacesObjects.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 8603,
+            "modifiedTime": 1559279138108,
+            "changeTime": 1559279138108,
+            "contentHash": "84c654580f9d049729f32895850e02d2deee816c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\Customer_Fields__mdt.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\Customer_Fields__mdt.object-meta.xml",
+            "isDirectory": false,
+            "size": 236,
+            "modifiedTime": 1559279137918,
+            "changeTime": 1559279137918,
+            "contentHash": "ef6ad44cd1debd770cacef0f3c93c29fefb8b035",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_City__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_City__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 395,
+            "modifiedTime": 1559279137923,
+            "changeTime": 1559279137923,
+            "contentHash": "ada6ccae9353762ea32372a9af05b1e3db136139",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Email__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Email__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 682,
+            "modifiedTime": 1559279137928,
+            "changeTime": 1559279137928,
+            "contentHash": "3a8b971d1b2bf5458826a1fc463cd1292ed624b4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Name__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 678,
+            "modifiedTime": 1559279137932,
+            "changeTime": 1559279137932,
+            "contentHash": "e4f1df3e02d40f7ab5849f0de895b2628b5e7245",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_State__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_State__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 397,
+            "modifiedTime": 1559279137937,
+            "changeTime": 1559279137937,
+            "contentHash": "443845b358ba1fef20224455bd30fe5df3721d36",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Status__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 672,
+            "modifiedTime": 1559279137941,
+            "changeTime": 1559279137941,
+            "contentHash": "5c36e886f35e6c26c0f97c07da590ff509975cad",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Sobject_Type__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Sobject_Type__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 549,
+            "modifiedTime": 1559279137962,
+            "changeTime": 1559279137962,
+            "contentHash": "77074a9a7043bdfbe4418f947d5d46c6245f89c2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\layouts\\Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\layouts\\Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2915,
+            "modifiedTime": 1559279137971,
+            "changeTime": 1559279137971,
+            "contentHash": "a3225660300801b8b42a65d85b69b7710e5ab2fe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\classes\\customerServices.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\classes\\customerServices.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1559279137974,
+            "changeTime": 1559279137974,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\classes\\customerServices.cls",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\classes\\customerServices.cls",
+            "isDirectory": false,
+            "size": 1731,
+            "modifiedTime": 1559279137977,
+            "changeTime": 1559279137977,
+            "contentHash": "e0b01ee008d9d2178e7b4a27dcfbc524d523f48c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\classes\\reservationManagerController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\classes\\reservationManagerController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1559279137981,
+            "changeTime": 1559279137981,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\classes\\reservationManagerController.cls",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\classes\\reservationManagerController.cls",
+            "isDirectory": false,
+            "size": 1805,
+            "modifiedTime": 1559279137983,
+            "changeTime": 1559279137983,
+            "contentHash": "f1fc1869351106405a22725bddf99efc92e4520f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6193,
+            "modifiedTime": 1559292470680,
+            "changeTime": 1559292470680,
+            "contentHash": "400df0fbea95d336f571d45f6cf218a8f62af668"
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6531,
+            "modifiedTime": 1559292470834,
+            "changeTime": 1559292470834,
+            "contentHash": "2ffa472f506c2bf646b7dd23c2e0f6bfceb2c83c"
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6193,
+            "modifiedTime": 1559292470866,
+            "changeTime": 1559292470866,
+            "contentHash": "400df0fbea95d336f571d45f6cf218a8f62af668"
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 20333,
+            "modifiedTime": 1559292470956,
+            "changeTime": 1559292470956,
+            "contentHash": "d903fdde85b56e85e1b44f4a6e09bb33215a7658"
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\customMetadata\\Customer_Fields.Contact_Customer_Fields.md-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\customMetadata\\Customer_Fields.Contact_Customer_Fields.md-meta.xml",
+            "isDirectory": false,
+            "size": 1003,
+            "modifiedTime": 1559279138114,
+            "changeTime": 1559279138114,
+            "contentHash": "2c88a0c59843bcf5dcef96726ce22e1c5bb202e8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\customMetadata\\Customer_Fields.Lead_Customer_Fields.md-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\customMetadata\\Customer_Fields.Lead_Customer_Fields.md-meta.xml",
+            "isDirectory": false,
+            "size": 983,
+            "modifiedTime": 1559279138117,
+            "changeTime": 1559279138117,
+            "contentHash": "da97824a35624b9c8e582ddc773fedfae864870d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559279137918,
+            "changeTime": 1559279137918,
+            "contentHash": "e1b2731ee3f217f9c3cae2b1daba8b54db2c1a48",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559279137911,
+            "changeTime": 1559279137911,
+            "contentHash": "9a580d623f898525e6d5f00988d2a3f8fa28c4c5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559279137958,
+            "changeTime": 1559279137958,
+            "contentHash": "02b95b649e97ca8796cee9b0dbc2ab38723358e1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559279137970,
+            "changeTime": 1559279137970,
+            "contentHash": "cca34c1d09846e84000f9e65b37d2e8aba66dd21",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559279137982,
+            "changeTime": 1559279137982,
+            "contentHash": "db8d4fb2830b729e355c21338865355650835a05",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559279138069,
+            "changeTime": 1559279138069,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\customMetadata",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\customMetadata",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559279138116,
+            "changeTime": 1559279138116,
+            "contentHash": "8c4a1bc7d3669586825751418de2b87ab0cc82dd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\customerList",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\customerList",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559282070139,
+            "changeTime": 1559282070139,
+            "contentHash": "aa7903c1d455aef0ce6e57528acdac2692fe7b52",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\customerList\\customerList.html",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\customerList\\customerList.html",
+            "isDirectory": false,
+            "size": 688,
+            "modifiedTime": 1559282921919,
+            "changeTime": 1559282921919,
+            "contentHash": "221658efb147b100f2b3c8d6e0c99474c0f4b251",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\customerList\\customerList.js",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\customerList\\customerList.js",
+            "isDirectory": false,
+            "size": 1601,
+            "modifiedTime": 1559282125105,
+            "changeTime": 1559282125105,
+            "contentHash": "1d1b9a7d8605eb8719ae52f5ff80b655b0dbe52b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\customerList\\customerList.js-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\customerList\\customerList.js-meta.xml",
+            "isDirectory": false,
+            "size": 542,
+            "modifiedTime": 1559282234251,
+            "changeTime": 1559282234251,
+            "contentHash": "debf90ee7833dbee66799b8e6c81928566dca26a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\customerTile",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\customerTile",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559280637677,
+            "changeTime": 1559280637677,
+            "contentHash": "5fb27d9a9c0d95870cd5f196048fb721fcc3f4fd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\customerTile\\customerTile.html",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\customerTile\\customerTile.html",
+            "isDirectory": false,
+            "size": 605,
+            "modifiedTime": 1559281925643,
+            "changeTime": 1559281925643,
+            "contentHash": "7c8ec2d88bf9ab696dfa898452a60e9c76d02ae6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\customerTile\\customerTile.js",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\customerTile\\customerTile.js",
+            "isDirectory": false,
+            "size": 1331,
+            "modifiedTime": 1559281929148,
+            "changeTime": 1559281929148,
+            "contentHash": "134face7db2e35cb10def9332ef763c3ba8e8cf0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\customerTile\\customerTile.js-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\customerTile\\customerTile.js-meta.xml",
+            "isDirectory": false,
+            "size": 227,
+            "modifiedTime": 1559280637675,
+            "changeTime": 1559280637675,
+            "contentHash": "13a8f53473150edb08a6d34e9604709ea6758279",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\inlineMessage",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\inlineMessage",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559282519069,
+            "changeTime": 1559282519069,
+            "contentHash": "b265f458a7aed8b49a22fb71ab09395bc315bda4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.html",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.html",
+            "isDirectory": false,
+            "size": 1375,
+            "modifiedTime": 1559212305013,
+            "changeTime": 1559212305013,
+            "contentHash": "9098c96fda28ddc2ac5ac48007426de1413b535a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.js",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.js",
+            "isDirectory": false,
+            "size": 2522,
+            "modifiedTime": 1559212305014,
+            "changeTime": 1559212305014,
+            "contentHash": "fd3da10d77d065d8d561d0126763af29815821b6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.js-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.js-meta.xml",
+            "isDirectory": false,
+            "size": 234,
+            "modifiedTime": 1559212305015,
+            "changeTime": 1559212305015,
+            "contentHash": "ec7b5989523c1fe810c5e6fed794a554ca15fe84",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\pubsub",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\pubsub",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559282577525,
+            "changeTime": 1559282577525,
+            "contentHash": "825dc4f64293d1cb0763368d6a5b772afed59972",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js",
+            "isDirectory": false,
+            "size": 3230,
+            "modifiedTime": 1559212305016,
+            "changeTime": 1559212305016,
+            "contentHash": "dd5fe8df566199947715bc412024c06760f19bab",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js-meta.xml",
+            "isDirectory": false,
+            "size": 227,
+            "modifiedTime": 1559212305016,
+            "changeTime": 1559212305016,
+            "contentHash": "450b992d3c0aa4b60f00ccac0349f18f4c00f2e1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559283926742,
+            "changeTime": 1559283926742,
+            "contentHash": "084528634d0926ac36b51bdcf6a2f62af14a9225",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.auradoc",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1559283926737,
+            "changeTime": 1559283926737,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.cmp",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.cmp",
+            "isDirectory": false,
+            "size": 1031,
+            "modifiedTime": 1559283976215,
+            "changeTime": 1559283976215,
+            "contentHash": "691415bff58ea771826eae3418e12154dbb08fd4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 253,
+            "modifiedTime": 1559283926536,
+            "changeTime": 1559283926536,
+            "contentHash": "69bc744e423eff6fc5015da137642e631c2c9557",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.css",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1559283926700,
+            "changeTime": 1559283926700,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.design",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1559283926748,
+            "changeTime": 1559283926748,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.svg",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1559283926728,
+            "changeTime": 1559283926728,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAuraController.js",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAuraController.js",
+            "isDirectory": false,
+            "size": 656,
+            "modifiedTime": 1559284193922,
+            "changeTime": 1559284193922,
+            "contentHash": "ce2947f6828997224f44c3a86cb71b7c15d5b685",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAuraHelper.js",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAuraHelper.js",
+            "isDirectory": false,
+            "size": 1299,
+            "modifiedTime": 1559284165345,
+            "changeTime": 1559284165345,
+            "contentHash": "7d45ff40eb7ae79f6ef2fd46e2ae075c0ad68d05",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAuraRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAuraRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1559283926709,
+            "changeTime": 1559283926709,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\reservationHelper",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\reservationHelper",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559283647251,
+            "changeTime": 1559283647251,
+            "contentHash": "af5a5c9ee853a9b072f6e2338da8c64dc6da5a5a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\reservationHelper\\reservationHelper.html",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\reservationHelper\\reservationHelper.html",
+            "isDirectory": false,
+            "size": 42,
+            "modifiedTime": 1559283808008,
+            "changeTime": 1559283808008,
+            "contentHash": "457048c2c8681710eeabe09922cc1e77c57c02d9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\reservationHelper\\reservationHelper.js",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\reservationHelper\\reservationHelper.js",
+            "isDirectory": false,
+            "size": 1542,
+            "modifiedTime": 1559283686121,
+            "changeTime": 1559283686121,
+            "contentHash": "8a525e86e5d1a762f952639910dd11dc0038171f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\reservationHelper\\reservationHelper.js-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\lwc\\reservationHelper\\reservationHelper.js-meta.xml",
+            "isDirectory": false,
+            "size": 232,
+            "modifiedTime": 1559283647248,
+            "changeTime": 1559283647248,
+            "contentHash": "6b913a3095acca5d7d75031b40bf5058b45581cb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\flexipages\\Reservation_Manager.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\flexipages\\Reservation_Manager.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1157,
+            "modifiedTime": 1559292470558,
+            "changeTime": 1559292470558,
+            "contentHash": "0138d140964822d977baeaaf5d95e30d80e3ed61"
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\flexipages\\Space_Management_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\flexipages\\Space_Management_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 511,
+            "modifiedTime": 1559292470565,
+            "changeTime": 1559292470565,
+            "contentHash": "f963b7216a591546c07b67944b731b1858928d7a"
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\flexipages\\Home_Page_Default.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\flexipages\\Home_Page_Default.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2160,
+            "modifiedTime": 1559292470574,
+            "changeTime": 1559292470574,
+            "contentHash": "2975d554558b36a93c57489e1660dda0e8723295"
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\tabs\\Reservation_Manager.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\tabs\\Reservation_Manager.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 341,
+            "modifiedTime": 1559292470580,
+            "changeTime": 1559292470580,
+            "contentHash": "00b3af3e0a33cad2453b9adef8064c799af02c22"
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\applications\\Space_Management.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\applications\\Space_Management.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1505,
+            "modifiedTime": 1559292470587,
+            "changeTime": 1559292470587,
+            "contentHash": "d9438c7ddfb0a222857e986e7d46b965f2928e14"
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\contentassets\\EasySpacesTile01.asset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\contentassets\\EasySpacesTile01.asset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 545,
+            "modifiedTime": 1559292470961,
+            "changeTime": 1559292470961,
+            "contentHash": "2d8c95659f0519dd4e501e3ba976fa08fdb6ee4c"
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\contentassets\\EasySpacesTile01.asset",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\contentassets\\EasySpacesTile01.asset",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 148954,
+            "modifiedTime": 1559292471016,
+            "changeTime": 1559292471016,
+            "contentHash": "ceaf48b495afd38bde7871e9ba9f0ad5f0c90a05"
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\flexipages",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1559214282048,
-            "changeTime": 1559214282048,
-            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "modifiedTime": 1559292470571,
+            "changeTime": 1559292470571,
+            "contentHash": "8966e105c87313260cff0664e7452bbe3615e3ae"
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559292470577,
+            "changeTime": 1559292470577,
+            "contentHash": "30dcebc07adbf6717ade349c08f60375431b88e2"
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559292470585,
+            "changeTime": 1559292470585,
+            "contentHash": "158c976a36a87f116211b68b6b287be4ac5f9591"
+        }
+    ],
+    [
+        "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\contentassets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Navin\\myeslwc\\force-app\\main\\default\\contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559292470965,
+            "changeTime": 1559292470965,
+            "contentHash": "9048ce2ca7911dd30382559ef1604aa192fb3eb6"
         }
     ]
 ]
